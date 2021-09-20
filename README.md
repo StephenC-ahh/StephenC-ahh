@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StephenC-ahh
+- 👋 Hi, I’m @StephenC-ahh - Stephen Coatsworth
 - 👀 I’m interested in upskilling my career into DevOps
 - 🌱 I’m currently learning Linux and Python
 - 💞️ I’m looking to collaborate on ...

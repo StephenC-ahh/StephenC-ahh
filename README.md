@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenC-ahh - Stephen Coatsworth
 - 👀 I’m interested in upskilling in DevOps to transition my career onto a more technical path
-- 🌱 I’m currently learning Linux, Ruby and Python
+- 🌱 I’m currently learning Linux, Ruby, Python and JavaScript
 - 💞️ I’m looking to collaborate on beginner projects who don't mind a bit of hand holding
 - 📫 How to reach me ...
 

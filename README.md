@@ -16,7 +16,7 @@ Skills: [![My Skills](https://skills.thijs.gg/icons?i=linux,ruby,python,js,html)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StephenC-ahh&show_icons=true&count_private=true)  
 
-
+![codewars stats](https://www.codewars.com/users/StephenC-ahh/badges/large)
 
 <!---
 StephenC-ahh/StephenC-ahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
